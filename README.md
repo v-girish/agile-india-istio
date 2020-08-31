@@ -1,4 +1,10 @@
 # Istio Demos for Service Mesh talk in Agile India 2019 Workshop
+Talk link:
+```
+https://www.youtube.com/watch?v=wQI0QGZ9xfU
+```
+
+
 You can find the corresponding slides at this link:
 ```
 https://docs.google.com/presentation/d/1PC_eRPgLh5MrUDe4UAog88L9jNl8RfgevCpLlldLHrI/edit?usp=sharing
